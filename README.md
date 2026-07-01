@@ -1,7 +1,6 @@
 -  Hi, I’m @Inahsia9
 -  I’m interested in coding
--  I’m looking to collaborate on website/application development
--  How to reach me on the handle
+-  I know DSA, building the rest
 
 - ⚡ Fun fact: my current state is the best case of never say never.
 
